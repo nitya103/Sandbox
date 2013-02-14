@@ -1,7 +1,7 @@
 Sandbox
 =======
 
-Learning the basics of cloning
+Learning the basics of cloning and merging.
 
 Contents
 --------
